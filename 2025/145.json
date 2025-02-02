@@ -1,0 +1,102 @@
+{
+  "epoch": 145,
+  "startTime": "2025/1/22",
+  "endTime": "2025/1/29",
+  "price": "0.1414",
+  "totalSolutions": 99395,
+  "averageScore": 24.86,
+  "pools": [
+    {
+      "name": "Qli Pool",
+      "miningModes": [
+        {
+          "type": "solo",
+          "coinsPerSolution": [
+            {
+              "estimate": 503,
+              "actual": 526
+            }
+          ]
+        },
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 467,
+              "actual": 419
+            }
+          ],
+          "sharesPerSolution": 9104
+        }
+      ]
+    },
+    {
+      "name": "Apool",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 400,
+              "actual": 442
+            }
+          ],
+          "sharesPerSolution": 9874
+        }
+      ]
+    },
+    {
+      "name": "Minerlab",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 421,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nevermine",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 414,
+              "actual": 418
+            }
+          ],
+          "sharesPerSolution": 9495
+        }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "miningModes": [
+        {
+          "type": "solo",
+          "coinsPerSolution": [
+            {
+              "estimate": 488,
+              "actual": 515
+            }
+          ]
+        },
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 403,
+              "actual": 481
+            }
+          ],
+          "sharesPerSolution": 9434
+        }
+      ]
+    }
+  ]
+}
