@@ -1,0 +1,101 @@
+{
+  "epoch": 146,
+  "startTime": "2025/1/29",
+  "endTime": "2025/2/5",
+  "price": "2.026e-06",
+  "totalSolutions": 134743,
+  "averageScore": 343.20710059171597,
+  "pools": [
+    {
+      "name": "QLI Pool",
+      "miningModes": [
+        {
+          "type": "solo",
+          "coinsPerSolution": [
+            {
+              "estimate": 2511236.193547002,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "qlipplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 2658955.969638002,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APool",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 2818493.3278162824,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 2496
+        }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "miningModes": [
+        {
+          "type": "solo",
+          "coinsPerSolution": [
+            {
+              "estimate": 2818493.3278162824,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 143.63213208053216,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 19623
+        }
+      ]
+    },
+    {
+      "name": "MinerLab",
+      "miningModes": [
+        {
+          "type": "solo",
+          "coinsPerSolution": [
+            {
+              "estimate": 2704786.367158452,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nevermine",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "coinsPerSolution": [
+            {
+              "estimate": 2658955.969638002,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 8863
+        }
+      ]
+    }
+  ]
+}
