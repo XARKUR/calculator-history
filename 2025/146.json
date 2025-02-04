@@ -1,0 +1,108 @@
+{
+  "epoch": 146,
+  "startTime": "2025/1/29",
+  "endTime": "2025/2/5",
+  "price": "1.937e-06",
+  "totalSolutions": 206767,
+  "averageScore": 339.48,
+  "pools": [
+    {
+      "name": "QLI Pool",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "6.92",
+          "coinsPerSolution": [
+            {
+              "estimate": 2538811,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "qlipplns",
+          "weekProfit": "7.32",
+          "coinsPerSolution": [
+            {
+              "estimate": 2688153,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APool",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "weekProfit": "10.82",
+          "coinsPerSolution": [
+            {
+              "estimate": 2849443,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 2508
+        }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "17.10",
+          "coinsPerSolution": [
+            {
+              "estimate": 2849443,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "pplns",
+          "weekProfit": "17.10",
+          "coinsPerSolution": [
+            {
+              "estimate": 2849443,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 27599
+        }
+      ]
+    },
+    {
+      "name": "MinerLab",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "7.45",
+          "coinsPerSolution": [
+            {
+              "estimate": 2734487,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nevermine",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "weekProfit": "6.46",
+          "coinsPerSolution": [
+            {
+              "estimate": 2688153,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 1881
+        }
+      ]
+    }
+  ]
+}
