@@ -11,7 +11,7 @@
       "miningModes": [
         {
           "type": "solo",
-          "weekProfit": "Infinity",
+          "weekProfit": "6.89",
           "coinsPerSolution": [
             {
               "estimate": 2535100,
@@ -21,7 +21,7 @@
         },
         {
           "type": "qlipplns",
-          "weekProfit": "Infinity",
+          "weekProfit": "7.29",
           "coinsPerSolution": [
             {
               "estimate": 2684223,
@@ -36,7 +36,7 @@
       "miningModes": [
         {
           "type": "pplns",
-          "weekProfit": "Infinity",
+          "weekProfit": "10.77",
           "coinsPerSolution": [
             {
               "estimate": 2845277,
@@ -52,7 +52,7 @@
       "miningModes": [
         {
           "type": "solo",
-          "weekProfit": "Infinity",
+          "weekProfit": "17.03",
           "coinsPerSolution": [
             {
               "estimate": 2845277,
@@ -62,7 +62,7 @@
         },
         {
           "type": "pplns",
-          "weekProfit": "Infinity",
+          "weekProfit": "17.03",
           "coinsPerSolution": [
             {
               "estimate": 2845277,
@@ -78,7 +78,7 @@
       "miningModes": [
         {
           "type": "solo",
-          "weekProfit": "Infinity",
+          "weekProfit": "7.42",
           "coinsPerSolution": [
             {
               "estimate": 2730489,
@@ -93,7 +93,7 @@
       "miningModes": [
         {
           "type": "pplns",
-          "weekProfit": "Infinity",
+          "weekProfit": "6.43",
           "coinsPerSolution": [
             {
               "estimate": 2684223,
