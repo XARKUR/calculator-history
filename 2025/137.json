@@ -1,0 +1,22 @@
+"assets": {
+      "smart_contract": {
+        "MLM": {
+          "price": 875000000,
+          "issuer": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFXIB"
+        },
+        "QX": {
+          "price": 875000000,
+          "issuer": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFXIB"
+        }
+      },
+      "tokens": {
+        "CFB": {
+          "price": 875000000,
+          "issuer": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFXIB"
+        },
+        "QFT": {
+          "price": 875000000,
+          "issuer": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFXIB"
+        }
+      }
+    },
