@@ -1,0 +1,108 @@
+{
+  "epoch": 146,
+  "startTime": "2025/1/29",
+  "endTime": "2025/2/5",
+  "price": "1.918e-06",
+  "totalSolutions": 206762,
+  "averageScore": 340.47,
+  "pools": [
+    {
+      "name": "QLI Pool",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2531399,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "qlipplns",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2680305,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APool",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2841123,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 2509
+        }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2841123,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "pplns",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2841123,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 27543
+        }
+      ]
+    },
+    {
+      "name": "MinerLab",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2726503,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nevermine",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "weekProfit": "Infinity",
+          "coinsPerSolution": [
+            {
+              "estimate": 2680305,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 1878
+        }
+      ]
+    }
+  ]
+}
