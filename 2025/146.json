@@ -2,7 +2,7 @@
   "epoch": 146,
   "startTime": "2025/1/29",
   "endTime": "2025/2/5",
-  "price": "1.924e-06",
+  "price": "1.929e-06",
   "totalSolutions": 206762,
   "averageScore": 339.98,
   "pools": [
@@ -43,7 +43,7 @@
               "actual": null
             }
           ],
-          "sharesPerSolution": 2509
+          "sharesPerSolution": 2508
         }
       ]
     },
@@ -69,7 +69,7 @@
               "actual": null
             }
           ],
-          "sharesPerSolution": 27543
+          "sharesPerSolution": 27573
         }
       ]
     },
@@ -100,7 +100,7 @@
               "actual": null
             }
           ],
-          "sharesPerSolution": 1878
+          "sharesPerSolution": 1880
         }
       ]
     }
