@@ -2,7 +2,7 @@
   "epoch": 147,
   "startTime": "2025/2/5",
   "endTime": "2025/2/12",
-  "price": "1.841e-06",
+  "price": "1.842e-06",
   "totalSolutions": 201181,
   "averageScore": 299.22,
   "pools": [
@@ -36,7 +36,7 @@
       "miningModes": [
         {
           "type": "pplns",
-          "weekProfit": "11.84",
+          "weekProfit": "11.85",
           "coinsPerSolution": [
             {
               "estimate": 3232839,
@@ -52,7 +52,7 @@
       "miningModes": [
         {
           "type": "solo",
-          "weekProfit": "73.72",
+          "weekProfit": "73.76",
           "coinsPerSolution": [
             {
               "estimate": 3232839,
@@ -62,14 +62,14 @@
         },
         {
           "type": "pplns",
-          "weekProfit": "73.72",
+          "weekProfit": "73.76",
           "coinsPerSolution": [
             {
               "estimate": 6465679,
               "actual": null
             }
           ],
-          "sharesPerSolution": 11207
+          "sharesPerSolution": 11222
         }
       ]
     },
@@ -93,14 +93,14 @@
       "miningModes": [
         {
           "type": "pplns",
-          "weekProfit": "8.53",
+          "weekProfit": "8.54",
           "coinsPerSolution": [
             {
               "estimate": 3049848,
               "actual": null
             }
           ],
-          "sharesPerSolution": 7443
+          "sharesPerSolution": 7454
         }
       ]
     }
