@@ -36,14 +36,14 @@
       "miningModes": [
         {
           "type": "pplns",
-          "weekProfit": "11.85",
+          "weekProfit": "11.84",
           "coinsPerSolution": [
             {
               "estimate": 3232839,
               "actual": null
             }
           ],
-          "sharesPerSolution": 2546
+          "sharesPerSolution": 2545
         }
       ]
     },
