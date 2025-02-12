@@ -15,7 +15,7 @@
           "coinsPerSolution": [
             {
               "estimate": 2880412,
-              "actual": null
+              "actual": 2890090
             }
           ]
         },
@@ -82,7 +82,7 @@
           "coinsPerSolution": [
             {
               "estimate": 3102416,
-              "actual": null
+              "actual": 3001716
             }
           ]
         }
