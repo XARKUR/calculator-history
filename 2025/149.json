@@ -3,8 +3,8 @@
   "startTime": "2025/2/19",
   "endTime": "2025/2/26",
   "price": "1.51e-06",
-  "totalSolutions": 18196,
-  "averageScore": 270.89,
+  "totalSolutions": 18729,
+  "averageScore": 274.86,
   "pools": [
     {
       "name": "QLI Pool",
@@ -14,7 +14,7 @@
           "weekProfit": "5.18",
           "coinsPerSolution": [
             {
-              "estimate": 3181667,
+              "estimate": 3135639,
               "actual": null
             }
           ]
@@ -24,7 +24,7 @@
           "weekProfit": "5.49",
           "coinsPerSolution": [
             {
-              "estimate": 3368824,
+              "estimate": 3320088,
               "actual": null
             }
           ]
@@ -39,11 +39,11 @@
           "weekProfit": "12.14",
           "coinsPerSolution": [
             {
-              "estimate": 3570953,
+              "estimate": 3519294,
               "actual": null
             }
           ],
-          "sharesPerSolution": 2618
+          "sharesPerSolution": 2623
         }
       ]
     },
@@ -55,7 +55,7 @@
           "weekProfit": "4971.72",
           "coinsPerSolution": [
             {
-              "estimate": 3570953,
+              "estimate": 3519294,
               "actual": null
             }
           ]
@@ -65,7 +65,7 @@
           "weekProfit": "4971.47",
           "coinsPerSolution": [
             {
-              "estimate": 7141906,
+              "estimate": 7038588,
               "actual": null
             }
           ],
@@ -81,7 +81,7 @@
           "weekProfit": "5.58",
           "coinsPerSolution": [
             {
-              "estimate": 3426889,
+              "estimate": 3377314,
               "actual": null
             }
           ]
@@ -96,11 +96,11 @@
           "weekProfit": "3.49",
           "coinsPerSolution": [
             {
-              "estimate": 3368824,
+              "estimate": 3320088,
               "actual": null
             }
           ],
-          "sharesPerSolution": 9642
+          "sharesPerSolution": 9777
         }
       ]
     }
