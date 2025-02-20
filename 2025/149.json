@@ -1,10 +1,8 @@
 {
+  "_id": "67b68d057dcb30e47719b2b3",
   "epoch": 149,
-  "startTime": "2025/2/19",
-  "endTime": "2025/2/26",
-  "price": "1.523e-06",
-  "totalSolutions": 15248,
   "averageScore": 272.13,
+  "endTime": "2025/2/26",
   "pools": [
     {
       "name": "QLI Pool",
@@ -104,5 +102,8 @@
         }
       ]
     }
-  ]
+  ],
+  "price": "1.523e-06",
+  "startTime": "2025/2/19",
+  "totalSolutions": 15248
 }
