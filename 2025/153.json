@@ -25,7 +25,7 @@
           "coinsPerSolution": [
             {
               "estimate": 4309880,
-              "actual": null
+              "actual": 4230133
             }
           ]
         }
@@ -40,7 +40,7 @@
           "coinsPerSolution": [
             {
               "estimate": 4568473,
-              "actual": null
+              "actual": 4331393
             }
           ],
           "sharesPerSolution": 2623
