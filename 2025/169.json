@@ -1,0 +1,65 @@
+{
+  "epoch": 169,
+  "startTime": "2025/7/9",
+  "endTime": "2025/7/16",
+  "price": "1.579e-06",
+  "averageScore": null,
+  "pools": [
+    {
+      "name": "QLI Pool",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "NaN",
+          "coinsPerSolution": [
+            {
+              "estimate": null,
+              "actual": null
+            }
+          ]
+        },
+        {
+          "type": "qlipplns",
+          "weekProfit": "NaN",
+          "coinsPerSolution": [
+            {
+              "estimate": null,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APool",
+      "miningModes": [
+        {
+          "type": "pplns",
+          "weekProfit": "NaN",
+          "coinsPerSolution": [
+            {
+              "estimate": null,
+              "actual": null
+            }
+          ],
+          "sharesPerSolution": 519
+        }
+      ]
+    },
+    {
+      "name": "MinerLab",
+      "miningModes": [
+        {
+          "type": "solo",
+          "weekProfit": "NaN",
+          "coinsPerSolution": [
+            {
+              "estimate": null,
+              "actual": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
